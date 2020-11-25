@@ -3,7 +3,7 @@
  * description: Clock(lrc/srt) to time for next.
  * homepage: https://github.com/afeiship/next-clock2time
  * version: 1.0.0
- * date: 2020-11-25 13:46:33
+ * date: 2020-11-25 13:48:16
  * license: MIT
  */
 

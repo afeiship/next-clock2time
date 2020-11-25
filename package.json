@@ -36,5 +36,15 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "next",
+    "clock",
+    "lrc",
+    "mp3",
+    "srt",
+    "subtitle",
+    "time",
+    "timestamp"
+  ]
 }
