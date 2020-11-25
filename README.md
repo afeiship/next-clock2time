@@ -22,6 +22,9 @@ nx.clock2time('00:00:03,776')   //3776
 nx.clock2time('00:12.120')      //12120
 ```
 
+## resources
+- https://en.wikipedia.org/wiki/LRC_(file_format)
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-clock2time/blob/master/LICENSE.txt).
 
