@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-clock2time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clock(lrc/srt) to time for next.",
   "homepage": "https://github.com/afeiship/next-clock2time",
   "author": {

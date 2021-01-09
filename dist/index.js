@@ -2,8 +2,8 @@
  * name: @jswork/next-clock2time
  * description: Clock(lrc/srt) to time for next.
  * homepage: https://github.com/afeiship/next-clock2time
- * version: 1.0.0
- * date: 2020-11-25 13:48:16
+ * version: 1.0.1
+ * date: 2021-01-09 16:33:08
  * license: MIT
  */
 
